@@ -156,5 +156,5 @@ Each page in the output JSON includes a list of detected content blocks with ric
 
 ## Team details
 **Team Name: Pixels** <br>
-**Team Leader: Sparsh Sinha**<br>**
-****Team Members: Rahul Naksar,Ayush Kumar**
+**Team Leader: Sparsh Sinha**<br>
+**Team Members: Rahul Naksar,Ayush Kumar**
