@@ -1,0 +1,1141 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "structure": [
+        {
+          "type": "title",
+          "text": "Parsippany -Troy Hills STEM Pathways",
+          "bbox": [
+            125.8207,
+            37.369587550000006,
+            562.1452114330497,
+            65.37680415
+          ],
+          "font_size": 28.007216599999992,
+          "bold": true,
+          "underline": false,
+          "font_weight": "bold",
+          "fontnames": [
+            "MUFUZY+Calibri-Bold"
+          ],
+          "alignment": "center"
+        },
+        {
+          "type": "h2",
+          "text": "Mission Statement:  To provide PTHSD high school students with the opportunity to ",
+          "bbox": [
+            80.3275,
+            92.12564057889995,
+            514.2258446399999,
+            106.13149067890004
+          ],
+          "font_size": 14.005850100000089,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+Calibri",
+            "MUFUZY+Sniglet-Regular"
+          ],
+          "alignment": "center"
+        },
+        {
+          "type": "h2",
+          "text": " ",
+          "bbox": [
+            201.2986713709,
+            89.43894157900002,
+            205.7323748932,
+            105.44509147899998
+          ],
+          "font_size": 16.00614989999997,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "h3",
+          "text": "concentrate their studies, beyond those required in high school, in the areas of science, ",
+          "bbox": [
+            80.3275047,
+            108.74646399999995,
+            507.51711221999955,
+            120.75126399999999
+          ],
+          "font_size": 12.004800000000046,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+Calibri"
+          ],
+          "alignment": "center"
+        },
+        {
+          "type": "paragraph",
+          "text": "technology, engineering, and mathematics, and expose students to relevant real world ",
+          "bbox": [
+            80.3275047,
+            123.002164,
+            503.0405222999996,
+            135.00696400000004
+          ],
+          "font_size": 12.004800000000046,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+Calibri"
+          ],
+          "alignment": "center"
+        },
+        {
+          "type": "paragraph",
+          "text": "experiences through project work, conferences and presentations to enhance their high school ",
+          "bbox": [
+            80.3275047,
+            137.25786400000004,
+            543.8028206999996,
+            149.2626640000001
+          ],
+          "font_size": 12.004800000000046,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+Calibri"
+          ],
+          "alignment": "center"
+        },
+        {
+          "type": "paragraph",
+          "text": "experience. ",
+          "bbox": [
+            80.3275047,
+            151.5135640000001,
+            139.54718309999998,
+            163.51836400000013
+          ],
+          "font_size": 12.004800000000046,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+Calibri"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "h2",
+          "text": "PATHWAY OPTIONS",
+          "bbox": [
+            240.1787,
+            441.92589824,
+            365.13921008,
+            457.23405824
+          ],
+          "font_size": 15.308160000000044,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+Sniglet-Regular"
+          ],
+          "alignment": "center"
+        },
+        {
+          "type": "h1",
+          "text": "REGULAR PATHWAY DISTINCTION PATHWAY",
+          "bbox": [
+            117.1803,
+            467.75455,
+            499.4967504,
+            483.06474999999995
+          ],
+          "font_size": 15.310199999999952,
+          "bold": true,
+          "underline": false,
+          "font_weight": "bold",
+          "fontnames": [
+            "MUFUZY+Calibri-Bold"
+          ],
+          "alignment": "center"
+        },
+        {
+          "type": "paragraph",
+          "text": "● 4 credits of Math",
+          "bbox": [
+            74.7816,
+            502.433209035,
+            180.739011731,
+            513.440792535
+          ],
+          "font_size": 11.00758350000001,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "paragraph",
+          "text": "● 4 credits of Science",
+          "bbox": [
+            74.781574,
+            515.942209035,
+            195.42312812,
+            526.949792535
+          ],
+          "font_size": 11.00758350000001,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "paragraph",
+          "text": "● 4 credits of STEM-designated electives",
+          "bbox": [
+            74.781574,
+            529.451209035,
+            290.1874144715,
+            540.458792535
+          ],
+          "font_size": 11.007583499999981,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "paragraph",
+          "text": "● Maintain an overall 2.85 GPA",
+          "bbox": [
+            74.781574,
+            542.960209035,
+            241.68796854774953,
+            553.967792535
+          ],
+          "font_size": 11.007583499999981,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "paragraph",
+          "text": "● Participate in a minimum of 3 STEM ",
+          "bbox": [
+            74.781574,
+            556.469209035,
+            277.9029512855,
+            567.476792535
+          ],
+          "font_size": 11.007583499999981,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "paragraph",
+          "text": "presentations/conferences each year ",
+          "bbox": [
+            99.43775049999999,
+            569.978209035,
+            282.912152278,
+            580.985792535
+          ],
+          "font_size": 11.007583499999981,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "paragraph",
+          "text": "with a required minimum total of 12 ",
+          "bbox": [
+            99.43775049999999,
+            583.487209035,
+            273.66578213800005,
+            594.494792535
+          ],
+          "font_size": 11.007583499999981,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "paragraph",
+          "text": "presentations/conferences throughout ",
+          "bbox": [
+            99.43775049999999,
+            596.996209035,
+            287.1941022595,
+            608.003792535
+          ],
+          "font_size": 11.007583499999981,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "paragraph",
+          "text": "the 4 years. *",
+          "bbox": [
+            99.43775049999999,
+            610.505209035,
+            164.2396587405,
+            621.512792535
+          ],
+          "font_size": 11.007583499999981,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "paragraph",
+          "text": "● Join and actively participate in a ",
+          "bbox": [
+            74.78232450000002,
+            624.014209035,
+            258.409271407,
+            635.021792535
+          ],
+          "font_size": 11.007583499999981,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "paragraph",
+          "text": "STEM-related extracurricular activity or ",
+          "bbox": [
+            99.438501,
+            637.523209035,
+            292.59957625799996,
+            648.5307925349999
+          ],
+          "font_size": 11.007583499999981,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "paragraph",
+          "text": "club every year of attendance. - ",
+          "bbox": [
+            99.438501,
+            651.0322090349999,
+            256.5717554625,
+            662.039792535
+          ],
+          "font_size": 11.007583499999981,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "paragraph",
+          "text": "● 4 credits of Math - At least one math ",
+          "bbox": [
+            320.7744,
+            484.421909035,
+            524.5231725374165,
+            495.429492535
+          ],
+          "font_size": 11.00758350000001,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "paragraph",
+          "text": "course should be an AP Math class.",
+          "bbox": [
+            345.4305505,
+            497.930909035,
+            520.1098930615,
+            508.938492535
+          ],
+          "font_size": 11.00758350000001,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "paragraph",
+          "text": "● 4 credits of Science- At least one ",
+          "bbox": [
+            320.7751245,
+            511.439909035,
+            508.65098763041647,
+            522.447492535
+          ],
+          "font_size": 11.00758350000001,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "paragraph",
+          "text": "science course should be an AP ",
+          "bbox": [
+            345.43130099999996,
+            524.948909035,
+            504.84295184850004,
+            535.956492535
+          ],
+          "font_size": 11.00758350000001,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "paragraph",
+          "text": "Science class.",
+          "bbox": [
+            345.43135050000006,
+            538.4579090350001,
+            415.74779389800005,
+            549.465492535
+          ],
+          "font_size": 11.007583499999981,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "paragraph",
+          "text": "● 4 credits of STEM-designated electives ",
+          "bbox": [
+            320.7759245000001,
+            551.966909035,
+            539.2308656010001,
+            562.974492535
+          ],
+          "font_size": 11.007583499999981,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "paragraph",
+          "text": "- One must be a Computer ",
+          "bbox": [
+            345.43210100000005,
+            565.475909035,
+            478.7009144345001,
+            576.483492535
+          ],
+          "font_size": 11.007583499999981,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "paragraph",
+          "text": "Science/Technology Class",
+          "bbox": [
+            345.43210100000005,
+            578.984909035,
+            473.8684514725,
+            589.992492535
+          ],
+          "font_size": 11.007583499999981,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "paragraph",
+          "text": "● Maintain an overall 3.5 GPA ",
+          "bbox": [
+            320.7766245,
+            592.493909035,
+            484.0065522042505,
+            603.501492535
+          ],
+          "font_size": 11.007583499999981,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "paragraph",
+          "text": "● Participate in a minimum of 3 STEM ",
+          "bbox": [
+            320.7766245,
+            606.002909035,
+            523.8980017855,
+            617.0104925349999
+          ],
+          "font_size": 11.007583499999981,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "paragraph",
+          "text": "presentations/conferences a year with a ",
+          "bbox": [
+            345.432801,
+            619.5119090349999,
+            542.9418717405,
+            630.5194925349999
+          ],
+          "font_size": 11.007583499999981,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "paragraph",
+          "text": "required minimum total of 12 ",
+          "bbox": [
+            345.432801,
+            633.0209090349999,
+            487.8819390735,
+            644.0284925349999
+          ],
+          "font_size": 11.007583499999981,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "paragraph",
+          "text": "presentations/conferences throughout ",
+          "bbox": [
+            345.432801,
+            646.529909035,
+            533.1891527595,
+            657.537492535
+          ],
+          "font_size": 11.007583499999981,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "paragraph",
+          "text": "the 4 years.",
+          "bbox": [
+            345.432801,
+            660.038909035,
+            402.90339445349997,
+            671.046492535
+          ],
+          "font_size": 11.00758350000001,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "paragraph",
+          "text": "● Join and actively participate in a ",
+          "bbox": [
+            320.777375,
+            673.547909035,
+            504.404321907,
+            684.555492535
+          ],
+          "font_size": 11.007583499999996,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "paragraph",
+          "text": "STEM-related extracurricular activity or ",
+          "bbox": [
+            345.43355149999996,
+            687.056909035,
+            538.5946267579999,
+            698.064492535
+          ],
+          "font_size": 11.00758350000001,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "paragraph",
+          "text": "club every year of attendance. ",
+          "bbox": [
+            345.43355149999996,
+            700.565909035,
+            495.85218002749997,
+            711.5734925349999
+          ],
+          "font_size": 11.007583499999996,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "paragraph",
+          "text": "● Either participate in an internship or ",
+          "bbox": [
+            320.7781255,
+            714.0749090349999,
+            521.5108571659999,
+            725.0824925349999
+          ],
+          "font_size": 11.00758350000001,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "paragraph",
+          "text": "design and implement a community ",
+          "bbox": [
+            345.43430199999995,
+            727.5839090349999,
+            521.5446304164999,
+            738.5914925349999
+          ],
+          "font_size": 11.007583499999996,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "paragraph",
+          "text": "impact project.",
+          "bbox": [
+            345.43430199999995,
+            741.0929090349999,
+            416.96157958299995,
+            752.100492535
+          ],
+          "font_size": 11.007583500000003,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "indented"
+        },
+        {
+          "type": "h3",
+          "text": "Goals:",
+          "bbox": [
+            45.4123,
+            186.07105890779997,
+            82.1082880738,
+            200.08250910779998
+          ],
+          "font_size": 14.011450200000013,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+Sniglet-Regular"
+          ],
+          "alignment": "left"
+        },
+        {
+          "type": "paragraph",
+          "text": "• Inspire keen interest in mathematics, science, engineering, and ",
+          "bbox": [
+            41.3845,
+            210.809029658,
+            343.9929226873761,
+            222.7783374500001
+          ],
+          "font_size": 11.508949800000096,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "left"
+        },
+        {
+          "type": "paragraph",
+          "text": "technology, develop strong scholarship in the subject and ",
+          "bbox": [
+            45.4121204,
+            224.78018765000002,
+            315.1359139485992,
+            236.2891374500001
+          ],
+          "font_size": 11.508949800000096,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+Calibri"
+          ],
+          "alignment": "left"
+        },
+        {
+          "type": "paragraph",
+          "text": "promote the enjoyment of these studies in high school.",
+          "bbox": [
+            45.4121204,
+            238.29098765000003,
+            303.2931470596502,
+            249.79993745000013
+          ],
+          "font_size": 11.508949800000096,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+Calibri"
+          ],
+          "alignment": "left"
+        },
+        {
+          "type": "paragraph",
+          "text": "• Expose students to potential career opportunities in the field.",
+          "bbox": [
+            41.3845,
+            251.33952965799995,
+            334.77068170785014,
+            263.30883745000006
+          ],
+          "font_size": 11.508949800000096,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "left"
+        },
+        {
+          "type": "paragraph",
+          "text": "• Encourage students to pursue higher education and major in ",
+          "bbox": [
+            41.3844008,
+            264.85032965799996,
+            332.75647137765026,
+            276.8196374500001
+          ],
+          "font_size": 11.508949800000096,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+ArialMT"
+          ],
+          "alignment": "left"
+        },
+        {
+          "type": "paragraph",
+          "text": "STEM careers.",
+          "bbox": [
+            45.4121204,
+            278.82148765,
+            111.05932943559921,
+            290.33043745000003
+          ],
+          "font_size": 11.508949800000039,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+Calibri"
+          ],
+          "alignment": "left"
+        },
+        {
+          "type": "paragraph",
+          "text": "• Promote interactions with STEM professionals to learn about ",
+          "bbox": [
+            39.68204,
+            292.33228765000007,
+            334.1039592567507,
+            303.84123745000005
+          ],
+          "font_size": 11.508949799999982,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+Calibri"
+          ],
+          "alignment": "left"
+        },
+        {
+          "type": "paragraph",
+          "text": "future opportunities.",
+          "bbox": [
+            45.4121204,
+            305.84308765000003,
+            143.4109833518,
+            317.35203745000007
+          ],
+          "font_size": 11.508949799999982,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+Calibri"
+          ],
+          "alignment": "left"
+        },
+        {
+          "type": "paragraph",
+          "text": "• Support field experiences connected to the world outside of ",
+          "bbox": [
+            39.6821894,
+            319.35388765000005,
+            330.74352984199993,
+            330.86283745000003
+          ],
+          "font_size": 11.508949799999982,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+Calibri"
+          ],
+          "alignment": "left"
+        },
+        {
+          "type": "paragraph",
+          "text": "the school building.",
+          "bbox": [
+            45.4122698,
+            332.86468765000006,
+            136.7703133124,
+            344.37363745000005
+          ],
+          "font_size": 11.508949799999982,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+Calibri"
+          ],
+          "alignment": "left"
+        },
+        {
+          "type": "paragraph",
+          "text": "• Signal to employers, universities, training programs, and ",
+          "bbox": [
+            39.6821894,
+            346.3754876500001,
+            311.7998214890996,
+            357.88443745000006
+          ],
+          "font_size": 11.508949799999982,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+Calibri"
+          ],
+          "alignment": "left"
+        },
+        {
+          "type": "paragraph",
+          "text": "military that a student has completed a comprehensive course ",
+          "bbox": [
+            45.4122698,
+            359.88628765000004,
+            338.53392567654987,
+            371.3952374500001
+          ],
+          "font_size": 11.508949799999982,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+Calibri"
+          ],
+          "alignment": "left"
+        },
+        {
+          "type": "paragraph",
+          "text": "of study in a specialized area.",
+          "bbox": [
+            45.412269800000004,
+            373.39708765000006,
+            181.7818389980996,
+            384.90603745000004
+          ],
+          "font_size": 11.508949799999982,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+Calibri"
+          ],
+          "alignment": "left"
+        },
+        {
+          "type": "paragraph",
+          "text": "• Cultivate transferable work habits such as perseverance, goal ",
+          "bbox": [
+            39.682189400000006,
+            386.9078876500001,
+            334.5299973440998,
+            398.41683745000006
+          ],
+          "font_size": 11.508949799999982,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+Calibri"
+          ],
+          "alignment": "left"
+        },
+        {
+          "type": "paragraph",
+          "text": "setting, and self-direction.",
+          "bbox": [
+            45.412269800000004,
+            400.41868765000004,
+            167.1654089518502,
+            411.9276374500001
+          ],
+          "font_size": 11.508949799999982,
+          "bold": false,
+          "underline": false,
+          "font_weight": "normal",
+          "fontnames": [
+            "MUFUZY+Calibri"
+          ],
+          "alignment": "left"
+        },
+        {
+          "type": "table",
+          "content": [
+            [
+              "",
+              "",
+              "Parsippany -Troy Hills STEM Pathways"
+            ]
+          ],
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "type": "table",
+          "content": [
+            [
+              "PATHWAY OPTIONS",
+              null
+            ],
+            [
+              "REGULAR PATHWAY\n● 4 credits of Math\n● 4 credits of Science\n● 4 credits of STEM-designated electives\n● Maintain an overall 2.85 GPA\n● Participate in a minimum of 3 STEM\npresentations/conferences each year\nwith a required minimum total of 12\npresentations/conferences throughout\nthe 4 years. *\n● Join and actively participate in a\nSTEM-related extracurricular activity or\nclub every year of attendance. -",
+              "DISTINCTION PATHWAY\n● 4 credits of Math - At least one math\ncourse should be an AP Math class.\n● 4 credits of Science- At least one\nscience course should be an AP\nScience class.\n● 4 credits of STEM-designated electives\n- One must be a Computer\nScience/Technology Class\n● Maintain an overall 3.5 GPA\n● Participate in a minimum of 3 STEM\npresentations/conferences a year with a\nrequired minimum total of 12\npresentations/conferences throughout\nthe 4 years.\n● Join and actively participate in a\nSTEM-related extracurricular activity or\nclub every year of attendance.\n● Either participate in an internship or\ndesign and implement a community\nimpact project."
+            ]
+          ],
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "type": "table",
+          "content": [
+            [
+              "REGULAR PATHWAY"
+            ],
+            [
+              ""
+            ]
+          ],
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "type": "table",
+          "content": [
+            [
+              "DISTINCTION PATHWAY"
+            ],
+            [
+              ""
+            ]
+          ],
+          "bbox": [
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.0,
+            0.0,
+            612.1542205818159,
+            792.1995849608719
+          ]
+        },
+        {
+          "type": "image",
+          "bbox": [
+            336.9616013742052,
+            212.69092890940624,
+            617.8981250652519,
+            394.04630588996224
+          ]
+        },
+        {
+          "type": "image",
+          "bbox": [
+            363.3482919391708,
+            242.74413144915263,
+            590.6469691782568,
+            390.64380138946774
+          ]
+        },
+        {
+          "type": "image",
+          "bbox": [
+            6.179901650400001,
+            28.47476316292807,
+            117.726980720976,
+            66.00086176780803
+          ]
+        }
+      ]
+    }
+  ]
+}
