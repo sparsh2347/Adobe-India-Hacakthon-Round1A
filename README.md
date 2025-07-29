@@ -68,7 +68,7 @@ pip install -r requirements.txt
 python round1a_main.py input output
 ```
 
-## Docker Insatllation
+## Docker Installation
 
 ### Prerequisites
 
