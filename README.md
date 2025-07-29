@@ -98,7 +98,9 @@ docker pull cocane/adobe-round-1
 docker run cocane/adobe-round-1
 ```
 
-**NOTE**:  Place your PDFs in the input/ folder. The structured JSON will be saved to output/.
+**📂 Note:**
+Place your PDFs and input.json inside the input/Collection X/ folder.
+The generated output.json will be saved inside the corresponding output/ folder.
 
 ## 📦 Dependencies
 
@@ -118,7 +120,7 @@ The `Dockerfile` automatically installs essential system libraries:
 - `ffmpeg`, `curl`, `tcl/tk`, and more – for rich compatibility across visual and document formats  
 - `libgl1`, `libtiff-dev`, `libopenjp2-7` – for broader support in image decoding  
 
-> 💡 All dependencies are handled within Docker, so no system-level setup is needed if you use the containerized version.
+💡 All dependencies are handled within Docker, so no system-level setup is needed if you use the containerized version.
 
 ---
 
